@@ -1,0 +1,15 @@
+# Distribution and build files
+/dist
+/build
+/*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated log files (optional, but recommended)
+/DailyActivityLogs/
+/DailySummaries/
+/MonthlySummaries/
+*.csv
+*.json
